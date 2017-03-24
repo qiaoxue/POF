@@ -1,0 +1,111 @@
+{
+  "tableData": {
+    "header": [
+      {
+        "": ""
+      },
+      {
+        "front": "正面"
+      },
+      {
+        "opposite": "反面"
+      },
+      {
+        "indifferent": "中立"
+      }
+    ],
+    "data": [
+      {
+        "": "搜索引擎",
+        "front": "5674",
+        "opposite": "1829",
+        "indifferent": "435000"
+      },
+      {
+        "": "微博",
+        "front": "5674",
+        "opposite": "1829",
+        "indifferent": "435000"
+      },
+      {
+        "": "微信",
+        "front": "5674",
+        "opposite": "1829",
+        "indifferent": "435000"
+      },
+      {
+        "": "百度贴吧",
+        "front": "5674",
+        "opposite": "1829",
+        "indifferent": "435000"
+      },
+      {
+        "": "百度知道",
+        "front": "5674",
+        "opposite": "1829",
+        "indifferent": "435000"
+      },
+      {
+        "": "搜索引擎",
+        "front": "5674",
+        "opposite": "1829",
+        "indifferent": "435000"
+      },
+      {
+        "": "微博",
+        "front": "5674",
+        "opposite": "1829",
+        "indifferent": "435000"
+      },
+      {
+        "": "微信",
+        "front": "5674",
+        "opposite": "1829",
+        "indifferent": "435000"
+      },
+      {
+        "": "百度贴吧",
+        "front": "5674",
+        "opposite": "1829",
+        "indifferent": "435000"
+      },
+      {
+        "": "百度知道",
+        "front": "5674",
+        "opposite": "1829",
+        "indifferent": "435000"
+      },
+      {
+        "": "搜索引擎",
+        "front": "5674",
+        "opposite": "1829",
+        "indifferent": "435000"
+      },
+      {
+        "": "微博",
+        "front": "5674",
+        "opposite": "1829",
+        "indifferent": "435000"
+      },
+      {
+        "": "微信",
+        "front": "5674",
+        "opposite": "1829",
+        "indifferent": "435000"
+      },
+      {
+        "": "百度贴吧",
+        "front": "5674",
+        "opposite": "1829",
+        "indifferent": "435000"
+      },
+      {
+        "": "百度知道",
+        "front": "5674",
+        "opposite": "1829",
+        "indifferent": "435000"
+      }
+    ],
+    "total_rows": 15
+  }
+}
